@@ -85,7 +85,7 @@ D:\Hugo\hugo_extended_withdeploy_0.163.2_windows-amd64\hugo.exe
 
 方法：
 window搜索 ***编辑系统环境变量*** ，点击环境变量
-![编辑环境变量](images/hugo/env-path.png)
+![编辑环境变量](/blog/images/hugo/env-path.png)
 
 进入环境变量，找到用户变量的变量Path，双击Path编辑Path变量，点击新建，将刚才的
 ```text
@@ -470,9 +470,9 @@ git push
 
 
 开启 Pages：按下图在你的项目仓库里找到这个界面
-![GitHub Pages 设置界面](images/hugo/pages-setting.png)
+![GitHub Pages 设置界面](/blog/images/hugo/pages-setting.png)
 把Source从Deploy from a branch改成GitHub Actions
-![切换 Source 为 GitHub Actions](images/hugo/pages-action.png)
+![切换 Source 为 GitHub Actions](/blog/images/hugo/pages-action.png)
 
 进入Actions，你会看到
 Deploy Hugo site to Pages正在运行。
